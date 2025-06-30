@@ -7,7 +7,7 @@ Cursor, chatgpt and other tools might be here to stay and before univerisities t
 Note that I have made a point of not using genAI to write this guide.
 
 ## Contributing
-Would welomce contributions or debate me at christogoosen@gmail.com
+Would welcome contributions or debate me at christogoosen@gmail.com
 
 ## Discussing types of co-pilots / co-vibers.
 ### Web chat
